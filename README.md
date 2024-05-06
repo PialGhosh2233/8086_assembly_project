@@ -1,4 +1,4 @@
-This project involves creating a simple banking system simulation using assembly language (specifically for the x86 architecture). The program is designed to run on DOS and utilizes DOS interrupts, primarily INT 21H, for basic input/output operations.
+This project involves creating a simple ATM system simulation using assembly language (specifically for the x86 architecture). The program is designed to run on DOS and utilizes DOS interrupts, primarily INT 21H, for basic input/output operations.
 
 Key features of this banking system include:
 
